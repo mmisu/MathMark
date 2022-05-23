@@ -9,3 +9,5 @@ http://www.arhimedes.ro
 More stuff $f(x)=(x+a)(x+b)$
 
 $2+3 \ne 1+5$
+
+$$ \sum\_{n=1}^{+\infty} arhimedes = \int\_{-\infty}^{+\infty}succes^2 dx $$
